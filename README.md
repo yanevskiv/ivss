@@ -7,7 +7,7 @@
 
 [![Platform: Linux](https://img.shields.io/badge/Platform-Linux-black)](#building)
 [![Architecture specification](https://img.shields.io/badge/Specification-PDF-red)](projekat-postavka-v1.0.pdf)
-[![Language: C](https://img.shields.io/badge/Language-C-blue)](src/)
+[![Language: C](https://img.shields.io/badge/Language-C-green)](src/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
 </div>
